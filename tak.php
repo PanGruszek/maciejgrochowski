@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>tak</h1>
+
+    <h2>pierwszy</h2>
+    <h3>drugi</h3>
 </body>
 </html>
